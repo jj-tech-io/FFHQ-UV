@@ -9,3 +9,5 @@
 /examples/fitting_examples/outputs*
 /debug_data
 /debug*
+examples/dataset_examples/images/1.jpg
+*.jpg
